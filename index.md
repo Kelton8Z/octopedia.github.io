@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Know more faster, with Octopedia
 
-You can use the [editor on GitHub](https://github.com/Kelton8Z/octopedia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Octopedia is founded by an aspiring group of college students from CMU, UCB, U Mich, and U Pitt with the vision of automating college counselling for Chinese planning to study abroad.  To answer as many questions as possible about studying abroad, we are building a conversational search engine with our own database incorporating resources from different sites that retrieves such information for our user through an instant messaging interface.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For the past two years, our team has attended 3 hackathons, pitched at MIT as a global finalist, joined CMU’s Project Olympus Program, recruited over 20 part-time members, and interviewed over 100 potential users. Currently, we have prototypes of Android and Web App and looks forward to acquiring seed funding and reaching more people.
 
-### Markdown
+### Business Plan
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>English Version</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p><a href="/Users/keltonz/Library/Messages/Attachments/1d/13/8B47E082-FCAC-49D2-90A1-B44DE7FC8EB4/Octopedia\ Updated\ Pitchdeck.pdf"></a>.</p>
+  </body>
+</html>
 
-```markdown
-Syntax highlighted code block
+### Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kelton8Z/octopedia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to email zhuoran2@andrew.cmu.edu or WeChat kelton_himself 
