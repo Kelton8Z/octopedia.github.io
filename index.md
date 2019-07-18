@@ -9,11 +9,10 @@ For the past two years, our team has attended 3 hackathons, pitched at MIT as a 
 <!DOCTYPE html>
 <html>
   <head>
-    <title>English Version</title>
+    <title>Octopedia English Pitchdeck </title>
   </head>
   <body>
-    <h1>PDF Example</h1>
-    <p><a href="/Users/keltonz/Library/Messages/Attachments/1d/13/8B47E082-FCAC-49D2-90A1-B44DE7FC8EB4/Octopedia\ Updated\ Pitchdeck.pdf"></a>.</p>
+    <iframe src="/Users/keltonz/Library/Messages/Attachments/1d/13/8B47E082-FCAC-49D2-90A1-B44DE7FC8EB4/Octopedia\ Updated\ Pitchdeck.pdf" width="100%" height="500px"></iframe>
   </body>
 </html>
 
